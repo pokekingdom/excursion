@@ -23,3 +23,9 @@ body {
     font-size: 16;
     color: aquamarine;
 }
+/* footer */
+.footer {
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
